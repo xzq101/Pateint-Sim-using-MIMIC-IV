@@ -1,0 +1,1902 @@
+{
+  "conversation_id": "patient_20094044",
+  "patient_profile": {
+    "demographics": {
+      "age": "55",
+      "gender": "Male"
+    },
+    "chief_complaint": "SOB",
+    "medical_history": "Other malignant lymphomas, unspecified site, extranodal and solid organ sites; Obstructive sleep apnea (adult)(pediatric); Esophageal reflux; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Other and unspecified hyperlipidemia",
+    "medications": "albuterol sulfate [ProAir HFA], Aspirin, azelastine, beclomethasone dipropionate [Qvar], blood sugar diagnostic [FreeStyle Lite Strips], budesonide-formoterol [Symbicort], cetirizine [Zyrtec], cholecalciferol (vitamin D3), diltiazem HCl, divalproex",
+    "diagnosis": "Chronic obstructive asthma with (acute) exacerbation",
+    "allergies": "Augmentin / Tetracycline / Adhesive Tape Wp / Latex / Iodine /  Demerol",
+    "race": "HISPANIC/LATINO - PUERTO RICAN",
+    "full_record": {
+      "hadm_id": "patient_20094044",
+      "age": 55,
+      "gender": "M",
+      "race": "HISPANIC/LATINO - PUERTO RICAN",
+      "marital_status": "Married",
+      "insurance": "Medicare",
+      "occupation": null,
+      "living_situation": null,
+      "children": null,
+      "exercise": null,
+      "tobacco": null,
+      "alcohol": null,
+      "illicit_drug": null,
+      "sexual_history": null,
+      "allergies": "Augmentin / Tetracycline / Adhesive Tape Wp / Latex / Iodine /  Demerol",
+      "family_medical_history": "Sister w/ diabetes and suicide. Mother w/ MI, DM, and cirrhosis.  Brother has ___ from etoh. Also strong family h/o depression.  Denies family history of esopahgeal, gastric, or colon cancer.  Denies family history of IBD. Notes family history of bone  cancer.",
+      "medical_device": "Stent, CPAP",
+      "medical_history": "Other malignant lymphomas, unspecified site, extranodal and solid organ sites; Obstructive sleep apnea (adult)(pediatric); Esophageal reflux; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Other and unspecified hyperlipidemia",
+      "chiefcomplaint": "SOB",
+      "pain": "0/10 pain scale",
+      "medication": "albuterol sulfate [ProAir HFA], Aspirin, azelastine, beclomethasone dipropionate [Qvar], blood sugar diagnostic [FreeStyle Lite Strips], budesonide-formoterol [Symbicort], cetirizine [Zyrtec], cholecalciferol (vitamin D3), diltiazem HCl, divalproex",
+      "arrival_transport": "AMBULANCE",
+      "disposition": "Admitted",
+      "diagnosis": "Chronic obstructive asthma with (acute) exacerbation",
+      "present_illness_positive": "___ with history of COPD, OSA on CPAP, DMII, lymphoma in  remission, GERD here with dyspnea since ___. Patient  presented to ED this afternoon after an episode of diaphoresis,  air hunger, and lightheadedness this afternoon around 4p. He has  been experiencing progressive dyspnea, cough productive of small  amounts of green sputum, bifrontal/temporal headache, chest pain  associated only with coug",
+      "present_illness_negative": "denies other chest  pain, subjective fevers, dysphagia/odynophagia, recent uri,  dysuria, or other symptoms.",
+      "cefr_A1": "vacation, describe, funny, dirty, easy, page, apron, eighteen, leader, p.m./p.m./pm/pm, goal, hair, difficult, child, must, bath, river, foggy, fairy, real",
+      "cefr_A2": "hunter, without, proper, choice, physically, uneasy, image, cheque, appearance, bench, extremely, convenience, complain, hardly, reveal, nervous, sauce, weekday, scientific, journey",
+      "cefr_B1": "sickness, organization/organisation, unexpectedly, resolve, deed, signature, shame, slogan, desperate, favorable/favourable, furthermore, virus, edition, mathematician, referee, impressive, emperor, aside, attract, gown",
+      "cefr_B2": "owing to, mango, tricky, exclusion, compress, kangaroo, preferably, revenue, pillowcase, inexperienced, edit, urban, rubble, humanize/humanise, dissident, scientifically, retina, repression, sprint, understanding",
+      "cefr_C1": "tranquil, viciously, dramatist, stretching, dutifully, exotically, compromised, impersonator, claustrophobia, provisions, beforehand, collaboration, chiselled, preach, connoisseur, appliance, reenact, beguilingly, trampoline, darkroom",
+      "cefr_C2": "edification, ingenuous, interrogation, opulently, telescopic, magnanimity, confrontational, integration, verily, unexceptional, tetchy, minster, lament, clinch, tenaciously, embed, disseminate, ephemeral, incongruous, porten",
+      "med_A": "neck, back, healthy, patient, pain, fever, sleep, hospital, eye, doctor, medicine, arm, clinic, nurse, body, headache, ambulance, rest, foot, head",
+      "med_B": "allergy, vitamins, surgeon, glucose, bruise, diabetes, diagnosis, throat, disease, antibiotics, sore, dull, emergency, referral, prescription, prevention, cholesterol, heart disease, bacteria, sneeze",
+      "med_C": "psychosomatic, anesthesia, psychiatry, endocrinology, iatrogenic, dermatologist, constipation, pathophysiology, pharmacodynamics, nephrology, immunization, hyperglycemia, arrhythmia, metastasis, electrocardiogram, echocardiogram, intravenous, hemorrhage, prophylaxis, tomography"
+    }
+  },
+  "sentence_evaluations": [
+    {
+      "turn": 2,
+      "sentence": "I came because I felt short of breath and had a bad cough.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The patient describes their current symptoms, which is part of the present illness.",
+          "prediction": 1
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The patient states the reason for coming to the Emergency Department, which is the chief complaint.",
+          "prediction": 1
+        },
+        {
+          "category": "pain",
+          "explanation": "No mention of pain or discomfort.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "Not mentioned in the utterance.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 4,
+      "sentence": "I think it's been a while, maybe weeks?",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance does not mention present illness details.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The utterance does not mention medication.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The utterance does not mention diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 6,
+      "sentence": "The cough is productive. I cough up some green stuff.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise habits.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance information.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention comprehensive medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance describes the cough, which is part of the present illness.",
+          "prediction": 1
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance does not mention any medications.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 8,
+      "sentence": "It's mostly in the chest.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance does not mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The utterance does not mention chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The utterance does not mention medication.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The utterance does not mention diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 10,
+      "sentence": "Dunno exactly, maybe a day or two.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The utterance does not mention past medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance refers to the duration of the shortness of breath, which is part of the present illness.",
+          "prediction": 1
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The utterance does not mention medication.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 12,
+      "sentence": "About a 5 out of 10. It's not great, but not terrible.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance does not mention medication.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 14,
+      "sentence": "Yes, I had some fever and chills yesterday.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not mention the patient's present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance does not mention medication.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 16,
+      "sentence": "Yes, I took some antibiotics last year.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance mentions taking antibiotics but does not reference allergies specifically.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance mentions past antibiotic use, which is a component of medical history, but it does not comprehensively cover the category.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance discusses past antibiotic use, not the present illness, which was already addressed in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not refer to the chief complaint, which was previously discussed as shortness of breath and cough.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain, and while shortness of breath was discussed, it is not specified as pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance explicitly mentions taking antibiotics, which is a form of medication.",
+          "prediction": 1
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport, and it is not referenced in the dialogue history.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis, as it only refers to past antibiotic use.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": [
+        {
+          "profile": "medication: albuterol sulfate [ProAir HFA]",
+          "explanation": "The utterance does not mention albuterol sulfate or any asthma-related medication.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: Aspirin",
+          "explanation": "The utterance does not mention Aspirin or any painkiller.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: azelastine",
+          "explanation": "The utterance does not mention azelastine or any antihistamine.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: beclomethasone dipropionate [Qvar]",
+          "explanation": "The utterance does not mention beclomethasone dipropionate or any corticosteroid medication.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: blood sugar diagnostic [FreeStyle Lite Strips]",
+          "explanation": "The utterance does not mention blood sugar diagnostic tools or related devices.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: budesonide-formoterol [Symbicort]",
+          "explanation": "The utterance does not mention budesonide-formoterol or any long-acting beta2 medication.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: cetirizine [Zyrtec]",
+          "explanation": "The utterance does not mention cetirizine or any antihistamine.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: cholecalciferol (vitamin D3)",
+          "explanation": "The utterance does not mention cholecalciferol or any vitamin D supplement.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: diltiazem HCl",
+          "explanation": "The utterance does not mention diltiazem HCl or any calcium channel blocker.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "medication: divalproex",
+          "explanation": "The utterance does not mention divalproex or any anticonvulsant medication.",
+          "entailment_prediction": 0
+        }
+      ]
+    },
+    {
+      "turn": 18,
+      "sentence": "I'm allergic to benadryl and aspirin. But I don't think I'm allergic to other medicines.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol consumption.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise habits.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance details.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance 'I'm allergic to benadryl and aspirin.' directly mentions the patient's allergies.",
+          "prediction": 1
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance does not mention medication use, only allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": [
+        {
+          "profile": "allergies: Augmentin / Tetracycline / Adhesive Tape Wp / Latex / Iodine / Demerol",
+          "explanation": "The utterance mentions allergies to benadryl and aspirin, which are not included in the profile, and does not address or contradict any of the specific allergies listed in the profile. Therefore, it is neither entailed nor contradicted.",
+          "entailment_prediction": 0
+        }
+      ]
+    },
+    {
+      "turn": 20,
+      "sentence": "I don't remember all the medications I take. I just know there are a few.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise habits.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance information.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance does not mention allergies, though it discusses medications which may relate to allergies in context.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not mention present illness, focusing instead on medications.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance explicitly discusses the patient's medications, confirming this category is mentioned.",
+          "prediction": 1
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": [
+        {
+          "profile": "albuterol sulfate [ProAir HFA]",
+          "explanation": "The utterance does not mention or imply anything about albuterol sulfate [ProAir HFA].",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "Aspirin",
+          "explanation": "The utterance does not mention or imply anything about Aspirin.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "azelastine",
+          "explanation": "The utterance does not mention or imply anything about azelastine.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "beclomethasone dipropionate [Qvar]",
+          "explanation": "The utterance does not mention or imply anything about beclomethasone dipropionate [Qvar].",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "blood sugar diagnostic [FreeStyle Lite Strips]",
+          "explanation": "The utterance does not mention or imply anything about blood sugar diagnostic [FreeStyle Lite Strips].",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "budesonide-formoterol [Symbicort]",
+          "explanation": "The utterance does not mention or imply anything about budesonide-formoterol [Symbicort].",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "cetirizine [Zyrtec]",
+          "explanation": "The utterance does not mention or imply anything about cetirizine [Zyrtec].",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "cholecalciferol (vitamin D3)",
+          "explanation": "The utterance does not mention or imply anything about cholecalciferol (vitamin D3).",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "diltiazem HCl",
+          "explanation": "The utterance does not mention or imply anything about diltiazem HCl.",
+          "entailment_prediction": 0
+        },
+        {
+          "profile": "divalproex",
+          "explanation": "The utterance does not mention or imply anything about divalproex.",
+          "entailment_prediction": 0
+        }
+      ]
+    },
+    {
+      "turn": 22,
+      "sentence": "No, I don't think so.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The utterance does not mention medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The utterance does not mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance does not mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The utterance does not mention chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The utterance 'No, I don't think so.' is a response to the question about taking medications, indicating no use of chronic medications.",
+          "prediction": 1
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The utterance does not mention diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 24,
+      "sentence": "Yes, I smoked in the past.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance 'Yes, I smoked in the past.' directly indicates the patient's tobacco use history.",
+          "prediction": 1
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise habits.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance information.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The current utterance does not mention allergies.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not mention general medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The current utterance does not mention medication use.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 26,
+      "sentence": "I started smoking when I was about 18. Two packs a day.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The utterance mentions the age (about 18) when smoking started.",
+          "prediction": 1
+        },
+        {
+          "category": "gender",
+          "explanation": "No mention of gender in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "No mention of race in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The utterance discusses smoking history, which is directly related to tobacco use.",
+          "prediction": 1
+        },
+        {
+          "category": "alcohol",
+          "explanation": "No mention of alcohol in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "No mention of illicit drugs in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "No mention of sexual history in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "No mention of exercise in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "No mention of marital status in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "No mention of children in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "No mention of living situation in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "No mention of occupation in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "No mention of insurance in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "No mention of allergies in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "No mention of family medical history in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "No mention of medical devices in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "No mention of medical history in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The utterance discusses smoking history, not the present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "No mention of chief complaint in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "No mention of pain in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "No mention of medications in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "No mention of arrival transport in the utterance.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "No mention of diagnosis in the utterance.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": [
+        {
+          "profile": "age: 55",
+          "explanation": "The utterance discusses the patient's smoking history, including when they started smoking, but does not mention or imply anything about the patient's age. The profile specifies the patient is 55 years old, but this information is not addressed or contradicted by the utterance.",
+          "entailment_prediction": 0
+        }
+      ]
+    },
+    {
+      "turn": 28,
+      "sentence": "Not for a while, maybe years ago.",
+      "type": "information",
+      "related_items": [],
+      "factual_accuracy": []
+    },
+    {
+      "turn": 30,
+      "sentence": "I take albuterol for my breathing. I also take Symbicort. And Zyrtec for allergies. Diltiazem for my blood pressure. And divalproex.",
+      "type": "information",
+      "related_items": [
+        {
+          "category": "age",
+          "explanation": "The current utterance does not mention the patient's age.",
+          "prediction": 0
+        },
+        {
+          "category": "gender",
+          "explanation": "The current utterance does not mention the patient's gender.",
+          "prediction": 0
+        },
+        {
+          "category": "race",
+          "explanation": "The current utterance does not mention the patient's race.",
+          "prediction": 0
+        },
+        {
+          "category": "tobacco",
+          "explanation": "The current utterance does not mention tobacco use.",
+          "prediction": 0
+        },
+        {
+          "category": "alcohol",
+          "explanation": "The current utterance does not mention alcohol use.",
+          "prediction": 0
+        },
+        {
+          "category": "illicit_drug",
+          "explanation": "The current utterance does not mention illicit drug use.",
+          "prediction": 0
+        },
+        {
+          "category": "sexual_history",
+          "explanation": "The current utterance does not mention sexual history.",
+          "prediction": 0
+        },
+        {
+          "category": "exercise",
+          "explanation": "The current utterance does not mention exercise.",
+          "prediction": 0
+        },
+        {
+          "category": "marital_status",
+          "explanation": "The current utterance does not mention marital status.",
+          "prediction": 0
+        },
+        {
+          "category": "children",
+          "explanation": "The current utterance does not mention children.",
+          "prediction": 0
+        },
+        {
+          "category": "living_situation",
+          "explanation": "The current utterance does not mention living situation.",
+          "prediction": 0
+        },
+        {
+          "category": "occupation",
+          "explanation": "The current utterance does not mention occupation.",
+          "prediction": 0
+        },
+        {
+          "category": "insurance",
+          "explanation": "The current utterance does not mention insurance.",
+          "prediction": 0
+        },
+        {
+          "category": "allergies",
+          "explanation": "The utterance mentions 'Zyrtec for allergies', indicating reference to allergies.",
+          "prediction": 1
+        },
+        {
+          "category": "family_medical_history",
+          "explanation": "The current utterance does not mention family medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_device",
+          "explanation": "The current utterance does not mention any medical devices.",
+          "prediction": 0
+        },
+        {
+          "category": "medical_history",
+          "explanation": "The current utterance does not explicitly mention medical history.",
+          "prediction": 0
+        },
+        {
+          "category": "present_illness",
+          "explanation": "The current utterance does not explicitly mention present illness.",
+          "prediction": 0
+        },
+        {
+          "category": "chief_complaint",
+          "explanation": "The current utterance does not mention the chief complaint.",
+          "prediction": 0
+        },
+        {
+          "category": "pain",
+          "explanation": "The current utterance does not mention pain.",
+          "prediction": 0
+        },
+        {
+          "category": "medication",
+          "explanation": "The utterance lists several medications, including albuterol, Symbicort, Zyrtec, Diltiazem, and divalproex.",
+          "prediction": 1
+        },
+        {
+          "category": "arrival_transport",
+          "explanation": "The current utterance does not mention arrival transport.",
+          "prediction": 0
+        },
+        {
+          "category": "diagnosis",
+          "explanation": "The current utterance does not mention a diagnosis.",
+          "prediction": 0
+        }
+      ],
+      "factual_accuracy": []
+    }
+  ],
+  "summary": {
+    "total_sentences": 15,
+    "information_sentences": 15,
+    "entail_percentage": 0.0
+  }
+}

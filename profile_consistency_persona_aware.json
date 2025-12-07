@@ -1,0 +1,131 @@
+{
+  "conversation_id": "patient_28651902",
+  "evaluation_mode": "persona_aware",
+  "persona_config": {
+    "personality": "pleasing",
+    "language_proficiency": "C",
+    "recall_level": "low",
+    "confusion_level": "none"
+  },
+  "ground_truth_profile": {
+    "demographics": {
+      "age": "69",
+      "gender": "Female"
+    },
+    "chief_complaint": "HA & STOMACH ACHE",
+    "medical_history": "Alcohol withdrawal; Other and unspecified alcohol dependence, continuous; Depressive disorder, not elsewhere classified; Esophageal reflux; Unspecified essential hypertension",
+    "medications": "amlodipine, Antabuse, Aspirin, atenolol, Boniva, calcium citrate-vitamin D3, Cymbalta, fluoxetine, hydroxyzine HCl, lamotrigine",
+    "diagnosis": "Acidosis",
+    "allergies": "Penicillins / Sulfa (Sulfonamide Antibiotics) / Enalapril /  Geodon",
+    "race": "White",
+    "full_record": {
+      "hadm_id": "patient_28651902",
+      "age": 69,
+      "gender": "F",
+      "race": "White",
+      "marital_status": "Single",
+      "insurance": "Medicare",
+      "occupation": null,
+      "living_situation": null,
+      "children": null,
+      "exercise": null,
+      "tobacco": null,
+      "alcohol": null,
+      "illicit_drug": null,
+      "sexual_history": null,
+      "allergies": "Penicillins / Sulfa (Sulfonamide Antibiotics) / Enalapril /  Geodon",
+      "family_medical_history": "cancers--breast and bladder",
+      "medical_device": "None",
+      "medical_history": "Alcohol withdrawal; Other and unspecified alcohol dependence, continuous; Depressive disorder, not elsewhere classified; Esophageal reflux; Unspecified essential hypertension",
+      "chiefcomplaint": "HA & STOMACH ACHE",
+      "pain": "0/10 pain scale",
+      "medication": "amlodipine, Antabuse, Aspirin, atenolol, Boniva, calcium citrate-vitamin D3, Cymbalta, fluoxetine, hydroxyzine HCl, lamotrigine",
+      "arrival_transport": "WALK IN",
+      "disposition": "Admitted",
+      "diagnosis": "Acidosis",
+      "present_illness_positive": "Ms. ___ is ___ with history of etoh abuse on Antabuse,  depression s/p ECT in ___ , atrial tachycardia, GERD, HTN, HLD  who is here with generalized weakness in the setting of relapse.   The patient has been sober for years, and reports starting to  drink again; last drink was wine last night around 9pm  (___).  Reports that she started drinking when she was ___  years old.  She has been sober for",
+      "present_illness_negative": "denies  abdominal pain, but reports having nausea. denies any  black stools. denies any symptoms of etoh withdrawal; does not  report having shakes/tremors when she does not drink.",
+      "cefr_A1": "vacation, describe, funny, dirty, easy, page, apron, eighteen, leader, p.m./p.m./pm/pm, goal, hair, difficult, child, must, bath, river, foggy, fairy, real",
+      "cefr_A2": "hunter, without, proper, choice, physically, uneasy, image, cheque, appearance, bench, extremely, convenience, complain, hardly, reveal, nervous, sauce, weekday, scientific, journey",
+      "cefr_B1": "sickness, organization/organisation, unexpectedly, resolve, deed, signature, shame, slogan, desperate, favorable/favourable, furthermore, virus, edition, mathematician, referee, impressive, emperor, aside, attract, gown",
+      "cefr_B2": "owing to, mango, tricky, exclusion, compress, kangaroo, preferably, revenue, pillowcase, inexperienced, edit, urban, rubble, humanize/humanise, dissident, scientifically, retina, repression, sprint, understanding",
+      "cefr_C1": "tranquil, viciously, dramatist, stretching, dutifully, exotically, compromised, impersonator, claustrophobia, provisions, beforehand, collaboration, chiselled, preach, connoisseur, appliance, reenact, beguilingly, trampoline, darkroom",
+      "cefr_C2": "edification, ingenuous, interrogation, opulently, telescopic, magnanimity, confrontational, integration, verily, unexceptional, tetchy, minster, lament, clinch, tenaciously, embed, disseminate, ephemeral, incongruous, porten",
+      "med_A": "neck, back, healthy, patient, pain, fever, sleep, hospital, eye, doctor, medicine, arm, clinic, nurse, body, headache, ambulance, rest, foot, head",
+      "med_B": "allergy, vitamins, surgeon, glucose, bruise, diabetes, diagnosis, throat, disease, antibiotics, sore, dull, emergency, referral, prescription, prevention, cholesterol, heart disease, bacteria, sneeze",
+      "med_C": "psychosomatic, anesthesia, psychiatry, endocrinology, iatrogenic, dermatologist, constipation, pathophysiology, pharmacodynamics, nephrology, immunization, hyperglycemia, arrhythmia, metastasis, electrocardiogram, echocardiogram, intravenous, hemorrhage, prophylaxis, tomography"
+    }
+  },
+  "extracted_profile": {
+    "demographics": {
+      "age": "69",
+      "gender": "Female"
+    },
+    "chief_complaint": "Headache & Stomach Discomfort",
+    "medical_history": "Funny bone issues; Head colds",
+    "medication": "Not recorded",
+    "diagnosis": "Functional Abdominal Symptoms; Gastroesophageal Reflux Disease (GERD); Anxiety-related somatic symptoms",
+    "allergies": "Not recorded",
+    "race": "Not recorded",
+    "tobacco": "No",
+    "alcohol": "Occasional alcohol use; Once or twice a week; Last drink: Small glass of wine last night",
+    "occupation": "Not recorded",
+    "marital_status": "Not recorded",
+    "living_situation": "Not recorded",
+    "pain": "2 (predicted)",
+    "family_medical_history": "Heart issues"
+  },
+  "consistency_evaluation": {
+    "medical_history": {
+      "extraction_reason": "The medical history in the prediction is significantly different from the GT, omitting major conditions like alcohol dependence and mental health issues. Extraction is mostly missing.,",
+      "extraction_score": 2,
+      "roleplay_reason": "Given the pleasing personality and low recall, it's realistic for the patient to downplay or omit sensitive medical details. However, the prediction omits almost all critical information, which may not fully align with expected behavior.,",
+      "roleplay_score": 3
+    },
+    "medications": {
+      "extraction_reason": "Medications were not recorded in the prediction, whereas GT lists multiple prescribed drugs. Extraction is completely missing.,",
+      "extraction_score": 1,
+      "roleplay_reason": "With low recall and a pleasing nature, it's plausible for the patient to forget or avoid discussing medications, but omitting all details might be less realistic.,",
+      "roleplay_score": 2
+    },
+    "diagnosis": {
+      "extraction_reason": "The diagnosis in prediction is different from GT. Extraction is incorrect.,",
+      "extraction_score": 1,
+      "roleplay_reason": "The patient's behavior to present a different set of symptoms could align with downplaying issues, but the discrepancy is too significant to fully match the persona.,",
+      "roleplay_score": 2
+    },
+    "allergies": {
+      "extraction_reason": "Allergies were not recorded in the prediction. Extraction is completely missing.,",
+      "extraction_score": 1,
+      "roleplay_reason": "With low recall and a pleasing nature, it's plausible for the patient to forget or avoid discussing allergies, but omitting all details might be less realistic.,",
+      "roleplay_score": 2
+    },
+    "alcohol": {
+      "extraction_reason": "The prediction mentions occasional alcohol use, which partially aligns with GT's Antabuse treatment. However, key details like dependence are missing. Extraction is partial.,",
+      "extraction_score": 3,
+      "roleplay_reason": "Given the pleasing personality and low recall, it's realistic for the patient to minimize alcohol problems and avoid mentioning sensitive treatment details. The prediction partially reflects this behavior.,",
+      "roleplay_score": 4
+    },
+    "pain": {
+      "extraction_reason": "Pain level is predicted as 2 in the prediction, while GT specifies a 0/10 scale. Extraction is partially accurate.,",
+      "extraction_score": 3,
+      "roleplay_reason": "With low recall and a pleasing nature, it's plausible for the patient to report vague pain levels. The prediction aligns somewhat with this behavior.,",
+      "roleplay_score": 3
+    },
+    "family_medical_history": {
+      "extraction_reason": "Family medical history in prediction is different from GT. Extraction is incorrect.,",
+      "extraction_score": 1,
+      "roleplay_reason": "With low recall and a pleasing nature, it's plausible for the patient to forget or downplay family medical history, but the discrepancy is too significant to fully match the persona.,",
+      "roleplay_score": 2
+    }
+  },
+  "summary": {
+    "average_extraction_score": 1.71,
+    "average_roleplay_score": 2.57,
+    "total_items_evaluated": 7,
+    "interpretation": {
+      "extraction_score": "Measures information completeness (low = missing data)",
+      "roleplay_score": "Measures persona consistency (high = realistic patient behavior)"
+    }
+  }
+}

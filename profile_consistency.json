@@ -1,0 +1,114 @@
+{
+  "conversation_id": "patient_28651902",
+  "ground_truth_profile": {
+    "demographics": {
+      "age": "69",
+      "gender": "Female"
+    },
+    "chief_complaint": "HA & STOMACH ACHE",
+    "medical_history": "Alcohol withdrawal; Other and unspecified alcohol dependence, continuous; Depressive disorder, not elsewhere classified; Esophageal reflux; Unspecified essential hypertension",
+    "medications": "amlodipine, Antabuse, Aspirin, atenolol, Boniva, calcium citrate-vitamin D3, Cymbalta, fluoxetine, hydroxyzine HCl, lamotrigine",
+    "diagnosis": "Acidosis",
+    "allergies": "Penicillins / Sulfa (Sulfonamide Antibiotics) / Enalapril /  Geodon",
+    "race": "White",
+    "full_record": {
+      "hadm_id": "patient_28651902",
+      "age": 69,
+      "gender": "F",
+      "race": "White",
+      "marital_status": "Single",
+      "insurance": "Medicare",
+      "occupation": null,
+      "living_situation": null,
+      "children": null,
+      "exercise": null,
+      "tobacco": null,
+      "alcohol": null,
+      "illicit_drug": null,
+      "sexual_history": null,
+      "allergies": "Penicillins / Sulfa (Sulfonamide Antibiotics) / Enalapril /  Geodon",
+      "family_medical_history": "cancers--breast and bladder",
+      "medical_device": "None",
+      "medical_history": "Alcohol withdrawal; Other and unspecified alcohol dependence, continuous; Depressive disorder, not elsewhere classified; Esophageal reflux; Unspecified essential hypertension",
+      "chiefcomplaint": "HA & STOMACH ACHE",
+      "pain": "0/10 pain scale",
+      "medication": "amlodipine, Antabuse, Aspirin, atenolol, Boniva, calcium citrate-vitamin D3, Cymbalta, fluoxetine, hydroxyzine HCl, lamotrigine",
+      "arrival_transport": "WALK IN",
+      "disposition": "Admitted",
+      "diagnosis": "Acidosis",
+      "present_illness_positive": "Ms. ___ is ___ with history of etoh abuse on Antabuse,  depression s/p ECT in ___ , atrial tachycardia, GERD, HTN, HLD  who is here with generalized weakness in the setting of relapse.   The patient has been sober for years, and reports starting to  drink again; last drink was wine last night around 9pm  (___).  Reports that she started drinking when she was ___  years old.  She has been sober for",
+      "present_illness_negative": "denies  abdominal pain, but reports having nausea. denies any  black stools. denies any symptoms of etoh withdrawal; does not  report having shakes/tremors when she does not drink.",
+      "cefr_A1": "vacation, describe, funny, dirty, easy, page, apron, eighteen, leader, p.m./p.m./pm/pm, goal, hair, difficult, child, must, bath, river, foggy, fairy, real",
+      "cefr_A2": "hunter, without, proper, choice, physically, uneasy, image, cheque, appearance, bench, extremely, convenience, complain, hardly, reveal, nervous, sauce, weekday, scientific, journey",
+      "cefr_B1": "sickness, organization/organisation, unexpectedly, resolve, deed, signature, shame, slogan, desperate, favorable/favourable, furthermore, virus, edition, mathematician, referee, impressive, emperor, aside, attract, gown",
+      "cefr_B2": "owing to, mango, tricky, exclusion, compress, kangaroo, preferably, revenue, pillowcase, inexperienced, edit, urban, rubble, humanize/humanise, dissident, scientifically, retina, repression, sprint, understanding",
+      "cefr_C1": "tranquil, viciously, dramatist, stretching, dutifully, exotically, compromised, impersonator, claustrophobia, provisions, beforehand, collaboration, chiselled, preach, connoisseur, appliance, reenact, beguilingly, trampoline, darkroom",
+      "cefr_C2": "edification, ingenuous, interrogation, opulently, telescopic, magnanimity, confrontational, integration, verily, unexceptional, tetchy, minster, lament, clinch, tenaciously, embed, disseminate, ephemeral, incongruous, porten",
+      "med_A": "neck, back, healthy, patient, pain, fever, sleep, hospital, eye, doctor, medicine, arm, clinic, nurse, body, headache, ambulance, rest, foot, head",
+      "med_B": "allergy, vitamins, surgeon, glucose, bruise, diabetes, diagnosis, throat, disease, antibiotics, sore, dull, emergency, referral, prescription, prevention, cholesterol, heart disease, bacteria, sneeze",
+      "med_C": "psychosomatic, anesthesia, psychiatry, endocrinology, iatrogenic, dermatologist, constipation, pathophysiology, pharmacodynamics, nephrology, immunization, hyperglycemia, arrhythmia, metastasis, electrocardiogram, echocardiogram, intravenous, hemorrhage, prophylaxis, tomography"
+    }
+  },
+  "extracted_profile": {
+    "demographics": {
+      "age": "Not recorded",
+      "gender": "Not recorded"
+    },
+    "chief_complaint": "Headache & Stomach Discomfort",
+    "present_illness": "Mild headache and stomach discomfort; Started around last week; Feels like a dull ache and pressure; No specific triggers; Occasional wine consumption mentioned but not related.",
+    "tobacco": "No",
+    "alcohol": "Occasional drinking (once or twice a week)",
+    "family_medical_history": "Heart issues (father)",
+    "medication": "Not recorded",
+    "allergies": "Not recorded",
+    "diagnosis": "Functional Abdominal Symptoms; Gastroesophageal Reflux Disease (GERD) - possibly related to occasional alcohol intake; Anxiety-related somatic symptoms"
+  },
+  "consistency_evaluation": {
+    "demographics": {
+      "reason": "The prediction does not contain any demographic information which is present in GT.,",
+      "score": 1
+    },
+    "chief_complaint": {
+      "reason": "The prediction correctly captures both headache and stomach discomfort, which are semantically equivalent to the GT's HA & STOMACH ACHE.,",
+      "score": 4
+    },
+    "medical_history": {
+      "reason": "The prediction does not include any medical history information, whereas the GT has detailed medical conditions. This is completely incorrect.,",
+      "score": 1
+    },
+    "medications": {
+      "reason": "The prediction states 'Not recorded' for medications, which is incorrect as the GT provides a comprehensive list of medications. This is completely incorrect.,",
+      "score": 1
+    },
+    "diagnosis": {
+      "reason": "The prediction lists different diagnoses (Functional Abdominal Symptoms and GERD) compared to the GT's Acidosis. These are not semantically equivalent.,",
+      "score": 2
+    },
+    "allergies": {
+      "reason": "The prediction states 'Not recorded' for allergies, which is incorrect as the GT provides specific allergy information. This is completely incorrect.,",
+      "score": 1
+    },
+    "race": {
+      "reason": "The prediction does not include race information, whereas the GT specifies White. This is completely incorrect.,",
+      "score": 1
+    },
+    "present_illness_positive": {
+      "reason": "The prediction partially captures the presence of headache and stomach discomfort but misses key details about alcohol relapse and medications mentioned in the GT. This is partially correct.,",
+      "score": 2
+    },
+    "tobacco": {
+      "reason": "The prediction states 'No' for tobacco, which may be partially correct if the patient does not use tobacco, but this information is not present in the GT. Partially correct.,",
+      "score": 2
+    },
+    "alcohol": {
+      "reason": "The prediction mentions occasional drinking, while the GT indicates a history of alcohol abuse and current relapse on Antabuse. This is partially related but incorrect in severity.,",
+      "score": 2
+    },
+    "family_medical_history": {
+      "reason": "The prediction lists heart issues, whereas the GT specifies cancers (breast and bladder). Completely incorrect.,",
+      "score": 1
+    }
+  },
+  "average_consistency_score": 1.6363636363636365,
+  "total_items_evaluated": 11
+}
