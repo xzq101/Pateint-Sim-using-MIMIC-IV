@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Evaluation results (large files)
+evaluation_results.json
+sentence_level_evaluation.json
+dialogue_evaluation_results.json
+profile_consistency.json
+profile_consistency_persona_aware.json
+patient_*_eval.json
+test_sentence_eval.json
+
+# Patient data (sensitive/large)
+ed_patient_records.json
+ed_patient_records_enriched.json
+
+# Simulation outputs (can be regenerated)
+simulation_outputs/*.json
+simulation_outputs/*.txt
+
+# Generated tables
+table1_*.txt
+table1_*.md
+table2_*.txt
+table2_*.md
+table3_*.txt
+table3_*.md
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
